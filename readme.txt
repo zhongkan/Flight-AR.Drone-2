@@ -20,10 +20,10 @@ INTRODUCTION
   Flight_AR.Drone_2-license-LGPL.txt and Flight_AR.Drone_2-license-BSD.txt for more details.
 
 HOW TO INSTALL
-  Please unzip "ardrone2.(rar or zip)" in any directory.
+  Please download and compile it.
 
 HOW TO UNINSTALL
-  Please delete the ardrone2 folder.
+  Please delete it.
 
 BEFORE YOU BUILD
   1. Microsoft Kinect SDK
