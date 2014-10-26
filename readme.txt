@@ -43,7 +43,7 @@ HOW TO USE
   
 HOW TO CONTROL AR.DRONE2:
   1. Keyboard control:
-     S: forward
+         W: forward
 	 S: backward
 	 A: turn left
 	 D: turn right
