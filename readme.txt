@@ -43,17 +43,17 @@ HOW TO USE
   
 HOW TO CONTROL AR.DRONE2:
   1. Keyboard control:
-     W: forward
-	 S: backward
-	 A: turn left
-	 D: turn right
-	 I: go up
-	 K: go down
-	 J: rotate clockwise
-	 L: rotate anticlockwise
-	 SPACE: landing/takeoff
-	 F11: emergency mode (cut off the engine immediately!!!)
-	 F12: disable/enable keyboard control
+	W: forward
+	S: backward
+	A: turn left
+	D: turn right
+	I: go up
+	K: go down
+	J: rotate clockwise
+	L: rotate anticlockwise
+	SPACE: landing/takeoff
+	F11: emergency mode (cut off the engine immediately!!!)
+	F12: disable/enable keyboard control
   2. Flight Stick control. I use Cyborg V.1, see http://www.cyborggaming.com/prod/v1stick.htm. Just map the Flight Stick action to the keyboard event to control your adrone. You can DIY or use my profile file Ardrone.pr0.
   3. Kinect control. See the wiki page about how to control ar.drone with MS Kinect.
 	 
