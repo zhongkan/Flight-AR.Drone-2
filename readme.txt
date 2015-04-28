@@ -60,7 +60,7 @@ HOW TO CONTROL AR.DRONE2:
 	 
 
 LIBRARY DEPENDENCIES
-  CV Drone uses following libraries.
+  Flight AR.Drone 2 uses following libraries.
   - OpenCV 2.4.4
     http://opencv.org/
   - FFmpeg 1.2
