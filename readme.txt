@@ -39,7 +39,7 @@ HOW TO USE
   1. Open build\vs2008\ardrone2.sln
   2. Press F7 to build.
   3. Press F5 (or Ctrl+F5) to run.
-  If you don't want to cmpile it, you can use the pre-build binary file bin\vs2008\ardrone2.exe to control your ardrone.
+  If you don't want to compile it, you can use the pre-build binary file bin\vs2008\ardrone2.exe to control your ardrone.
   
 HOW TO CONTROL AR.DRONE2:
   1. Keyboard control:
